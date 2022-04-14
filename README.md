@@ -19,7 +19,7 @@
   <p>Baixar a pasta <a href="https://github.com/Hyperzinhu/aula-ob/tree/main/aula09">Aula 09</a> e executar no Visua Studio Code</p>
 <div id="tecnologias">
   <h1>Tecnologias Utilizadas:</h1>
-  <p>JAVA</p>
+  <p>Java</p>
 <div id="autor">
   <h1>Autor:</h1>
-  <p>Gabriel Faria Sferra </p>
+  <p>- Gabriel Faria Sferra </p>
