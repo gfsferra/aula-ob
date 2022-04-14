@@ -8,4 +8,3 @@
 <a href="#tecnologias">Tecnologias</a> • 
 <a href="#autor">Autor</a> 
 </p>
-<img style="max-width: 50%;align-items: center;" src="https://i.postimg.cc/pT7QPrRC/download-1-1.jpg" alt="aaaaa">
