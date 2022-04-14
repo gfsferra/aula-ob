@@ -16,7 +16,7 @@
   <p>Corrigido [ ]</p>
 <div id="instrucoes">
   <h1>Instruções</h1>
-  <p>Baixar a pasta <a href="https://github.com/Hyperzinhu/aula-ob/tree/main/aula09">Aula 09</a> e executar no Visua Studio Code</p>
+  <p>Baixar a pasta <a href="https://github.com/Hyperzinhu/aula-ob/tree/main">Aula 09</a> e executar no Visua Studio Code</p>
 <div id="tecnologias">
   <h1>Tecnologias Utilizadas:</h1>
   <p>Java</p>
