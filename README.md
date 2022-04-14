@@ -1,4 +1,3 @@
-# aula-ob
 <h1 align="center">Aula: Programação Orientada a Objetos - Professor: Luis Hilário</h1>
 <p align="center">Aula do dia 13/04/2022 - A criacao de Classes gets e sets</p>
 <p align="center">
